@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+```
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yongwa1214&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yongwa1214"
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
