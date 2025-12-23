@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/yongwa1214?pet-id=1" width="1000" height="120"/>
+</a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
